@@ -1,4 +1,6 @@
 <html>
+<tittle> FORMULARIO </tittle>
+<p> </p>
 <body>
 <form action="datos.php" method="post">
     Nombre: <input type="text" name="nombre"><br>
