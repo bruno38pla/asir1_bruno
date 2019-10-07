@@ -1,0 +1,19 @@
+<?php
+function calcula(){
+	$a = 1;
+	$b = 10;
+	echo 'suma de 1 y 10 : ';
+	echo ($a+$b);
+	echo '<br/>';
+	echo ("resta de $a y $b = ");
+	echo ($a-$b);
+	echo '<br/>';
+	echo ("multiplicacion de $a y $b = ");
+	echo ($a*$b);
+	echo '<br/>';
+	echo ("division de $a y $b = ");
+	echo ($a/$b);
+	echo '<br/>';
+}
+calcula();
+?>
