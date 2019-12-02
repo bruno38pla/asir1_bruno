@@ -41,7 +41,7 @@ Como emperador, dominó su país y lo embarcó en una espiral expansionista: las
     </tr>
 </table> </center>
 <br>
-</br>
+<br/>
 <h4><u><center>- GUERRAS -<h4/><u/><center/>
  <center> <table border="1" >
   <tr>
