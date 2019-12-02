@@ -7,7 +7,7 @@
 <center>Asi de centrado quiero estar yo</center>
 <img src="napoles.jpg" alt="Napolonico" height="420" width="420 ">  <img src="napoleon.jpg" align="right" height="420" width="420 ">
 <p><a href="https://www.nationalgeographic.com.es/personajes/napoleon">Napoleon Bonaparte</a></p>
-<h1><u><center>- EMPERADOR -</h1></u></center>
+<h1><u><center>- EMPERADOR -<h1/></u><center/>
 <b>La figura de Napoleón Bonaparte emergió durante la Revolución Francesa, 
 y con el paso de los años se agigantó hasta convertirse en uno de los símbolos militares y políticos más importantes de la historia de Europa. 
 Como emperador, dominó su país y lo embarcó en una espiral expansionista: las Guerras Napoleónicas. 
@@ -21,7 +21,7 @@ Como emperador, dominó su país y lo embarcó en una espiral expansionista: las
  Fueron en parte una extensión de los conflictos que estallaron a causa de la Revolución francesa y continuaron, 
  a instigación y gracias al financiamiento del Reino Unido, durante todo el Primer Imperio francés. </b>
 <br>
-<h3><u><center>- GUERRAS -</h3></u></center>
+<h3><u><center>- GUERRAS -<h3/></u><center/>
 </br>
  <center> <table border="3" >
   <tr>
@@ -42,7 +42,7 @@ Como emperador, dominó su país y lo embarcó en una espiral expansionista: las
 </table> </center>
 <br>
 </br>
-<h4><u><center>- GUERRAS -</h4></u></center>
+<h4><u><center>- GUERRAS -<h4/></u><center/>
  <center> <table border="1" >
   <tr>
     <th>Provincias bañadas por el cantabrico</th>
@@ -65,5 +65,5 @@ Como emperador, dominó su país y lo embarcó en una espiral expansionista: las
   Apellidos:<br/>
   <input type="text" name="lastname"/>
   <input type="submit" value="Submit"/>
-</body>
-</html>
+<body/>
+<html/>
